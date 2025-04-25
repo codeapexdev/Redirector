@@ -12,3 +12,10 @@ Why use this?
   Default pause is 3–5 seconds, but you can tweak timing in a single config file.  
 
 Perfect for cold-mail campaigns, one-click landing pages, or any situation where link reputation matters.
+
+
+#Directions
+
+1. Change your logo in public folder, also personalise by changing brand related text.
+2. Make a .env file
+3. Add your redirect URL
